@@ -333,6 +333,7 @@ canvas.drawLine(fromX: 252, fromY: 0, toX: 252, toY: 152)
 canvas.drawLine(fromX: 251, fromY: 0, toX: 251, toY: 151)
 
 canvas.drawEllipse(centreX: 0, centreY: 200, width: 1, height: 1)
+canvas.drawEllipse(centreX: 20, centreY: 200, width: 1, height: 1)
 //: ## Template code
 //: The code below is necessary to see the result of your work in the Assistant Editor at right. Please do not remove.
 PlaygroundPage.current.liveView = canvas.imageView
